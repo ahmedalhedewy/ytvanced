@@ -16,10 +16,10 @@ If you like this continuation of YouTube Vanced as Unofficial builds by me, plea
 # Download
 Minimum Android version : 8 (Oreo) 
 
-[Download Vanced MicroG 0.2.24.220220](https://github.com/ahmedalhedewy/ytvanced/blob/main/MicroG/Vanced.MicroG.v0.2.25.224113.apk)
+[Download Vanced MicroG 0.2.24.220220](https://github.com/ahmedalhedewy/ytvanced/raw/main/MicroG/Vanced.MicroG.v0.2.25.224113.apk)
 
 [Download YouTube Vanced Unofficial version 17.44.34 Black](https://github.com/ahmedalhedewy/ytvanced/releases/download/vanced/YouTube_17.44.34.apk)
 
-[Download YouTube Music Vanced Unofficial version 5.32.50](https://github.com/ahmedalhedewy/ytvanced/blob/main/YT%20Music/YT%20Music_5.32.50.apk)
+[Download YouTube Music Vanced Unofficial version 5.32.50](https://github.com/ahmedalhedewy/ytvanced/raw/main/YT%20Music/YT%20Music_5.32.50.apk)
 
-[Download YouTube Downloader](https://github.com/ahmedalhedewy/ytvanced/blob/main/YouTube%20Downloader/YouTube%20Downloader_3.7.12.apk)
+[Download YouTube Downloader](https://github.com/ahmedalhedewy/ytvanced/raw/main/YouTube%20Downloader/YouTube%20Downloader_3.7.12.apk)
